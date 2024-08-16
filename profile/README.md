@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -15,23 +13,23 @@
 
 <img src="./main.jpg" />
 
-### 🎓 Developers
+## 🎓 Developers
 | FE | FE | BE | BE | BE | BE |
 | --- | --- | --- | --- | --- | --- |
 | <img style="width: 200px;" src="https://avatars.githubusercontent.com/u/113411111?v=4" /> | <img style="width: 200px;" src="https://avatars.githubusercontent.com/u/121416591?v=4" /> | <img style="width: 200px;" src="https://avatars.githubusercontent.com/u/172455232?v=4" /> | <img style="width: 200px;" src="https://avatars.githubusercontent.com/u/172009725?v=4" /> | <img style="width: 200px;" src="https://avatars.githubusercontent.com/u/86008429?v=4" /> | <img style="width: 200px;" src="https://avatars.githubusercontent.com/u/172482933?v=4" /> |
 | 김노을 | 류영찬 | 김도한 | 권기용 | 박서희 | 유성재 |
 | [@noeulgim](https://github.com/noeulgim) | [@codingkunst](https://github.com/codingkunst) | [@straycat2](https://github.com/straycat2) | [@kwonkiyong0059](https://github.com/kwonkiyong0059) | [@seohee-P](https://github.com/seohee-P) | [@k278a](https://github.com/k278a) |
 
-### 🌐 Encore-Hub Domain : [Encore Hub](https://encorehub.vercel.app)
+## 🌐 Encore-Hub Domain : [Encore Hub](https://encorehub.vercel.app)
 
-### 🛠️ Skill
+## 🛠️ Skill
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,yarn,tailwind,bootstrap)
 <br />
 ![Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,docker)
 
 ## 💥 트러블슈팅
 
-## Git Commit Convention
+## 📄 Git Commit Convention
 | 태그 이름 | 설명 |
 | --- | --- |
 | FEAT | 새로운 기능을 추가할 경우 |
