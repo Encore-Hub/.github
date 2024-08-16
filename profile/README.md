@@ -20,7 +20,7 @@
 | 김노을 | 류영찬 | 김도한 | 권기용 | 박서희 | 유성재 |
 | [@noeulgim](https://github.com/noeulgim) | [@codingkunst](https://github.com/codingkunst) | [@straycat2](https://github.com/straycat2) | [@kwonkiyong0059](https://github.com/kwonkiyong0059) | [@seohee-P](https://github.com/seohee-P) | [@k278a](https://github.com/k278a) |
 
-## 🌐 Encore-Hub Domain : <a href="https://encorehub.vercel.app" target="_blank">https://encorehub.vercel.app</a>
+## 🌐 Encore-Hub Domain : <a href="https://encorehub.vercel.app" target="_blank">"https://encorehub.vercel.app"</a>
 
 ## 🛠️ Skill
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,yarn,tailwind,bootstrap)
