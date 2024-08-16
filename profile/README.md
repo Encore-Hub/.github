@@ -13,7 +13,7 @@
 > 2024 동북권 이노베이션캠프 - 팀 프로젝트(6조)
 # Encore Hub 공연 정보 알림 서비스
 
-<img src="./main.jpp" />
+<img src="./main.jpg" />
 
 ### 🎓 Developers
 | FE | FE | BE | BE | BE | BE |
