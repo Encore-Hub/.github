@@ -23,9 +23,8 @@
 ### 🌐 Encore-Hub Domain : [Encore Hub](https://encorehub.vercel.app)
 
 ### 🛠️ Skill
-FE
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,yarn,tailwind,bootstrap)
-BE
+<br />
 ![Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,docker)
 
 ## 💥 트러블슈팅
