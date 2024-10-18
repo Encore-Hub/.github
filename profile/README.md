@@ -1,6 +1,6 @@
-> 2024 동북권 이노베이션캠프 - 팀 프로젝트
+> Team Project
 
-# [Encore Hub] 공연 정보 알림 서비스 (6조)
+# [Encore Hub] 공연 정보 알림 서비스
 
 <img src="./main.jpg" />
 
@@ -20,19 +20,13 @@
 ---
 
 ## 🛠️ Skill
-🧙‍♂️ FE
+#### 🧙‍♂️ FE
 <br />
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,yarn,tailwind,bootstrap)
 <br />
-🧙‍♀️ BE
+#### 🧙‍♀️ BE
 <br />
 ![Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,docker)
-
----
-
-## 💥 트러블슈팅
-- FE
-- BE
 
 ---
 
