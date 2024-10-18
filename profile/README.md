@@ -22,7 +22,7 @@
 ## 🛠️ Skill
 <h3>🧙‍♂️ FE</h3>
 <br />
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,yarn,tailwind,bootstrap)
+<p>![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,yarn,tailwind,bootstrap)</p>
 <br />
 <h3>🧙‍♀️ BE</h3>
 <br />
