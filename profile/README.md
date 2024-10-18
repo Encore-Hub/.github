@@ -20,11 +20,11 @@
 ---
 
 ## 🛠️ Skill
-#### 🧙‍♂️ FE
+<h3>🧙‍♂️ FE</h3>
 <br />
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,yarn,tailwind,bootstrap)
 <br />
-#### 🧙‍♀️ BE
+<h3>🧙‍♀️ BE</h3>
 <br />
 ![Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,docker)
 
